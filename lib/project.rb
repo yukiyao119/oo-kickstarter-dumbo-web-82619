@@ -4,6 +4,6 @@ class Project
   
   def initialize(description)
     @description = description
-    @backers
+    @backers = []
   
 end 
